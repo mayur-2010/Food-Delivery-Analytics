@@ -192,6 +192,3 @@ M.Sc. Computer Science | Aspiring Data Analyst
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and connect!
-
-**Thank you for visiting my project!**
