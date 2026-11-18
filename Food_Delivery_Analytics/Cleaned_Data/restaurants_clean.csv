@@ -1,0 +1,91 @@
+restaurant_id,restaurant_name,cuisine,city,average_menu_price,restaurant_rating,is_active
+1,North Indian Kitchen 01,Italian,Chennai,276,4.71,1
+2,Biryani Kitchen 02,Biryani,Pune,132,4.72,1
+3,Fast Food Kitchen 03,Biryani,Bengaluru,200,4.08,1
+4,Italian Kitchen 04,Chinese,Delhi,628,3.74,1
+5,Italian Kitchen 05,Desserts,Bengaluru,341,4.51,1
+6,Desserts Kitchen 06,Chinese,Bengaluru,375,4.32,1
+7,North Indian Kitchen 07,South Indian,Pune,367,3.84,1
+8,Fast Food Kitchen 08,Fast Food,Bengaluru,534,3.36,1
+9,South Indian Kitchen 09,Fast Food,Mumbai,154,4.47,1
+10,North Indian Kitchen 10,North Indian,Mumbai,163,3.65,1
+11,Italian Kitchen 11,Biryani,Delhi,266,4.79,1
+12,Desserts Kitchen 12,South Indian,Hyderabad,377,3.61,1
+13,Biryani Kitchen 13,Biryani,Hyderabad,475,3.41,1
+14,Biryani Kitchen 14,North Indian,Bengaluru,380,4.61,1
+15,Biryani Kitchen 15,Biryani,Chennai,353,3.46,1
+16,Biryani Kitchen 16,Biryani,Pune,617,3.5,1
+17,Italian Kitchen 17,Biryani,Bengaluru,205,4.22,1
+18,North Indian Kitchen 18,Fast Food,Pune,423,4.69,1
+19,Biryani Kitchen 19,Italian,Bengaluru,407,3.53,1
+20,Italian Kitchen 20,Fast Food,Chennai,370,3.73,1
+21,Italian Kitchen 21,South Indian,Bengaluru,548,4.52,1
+22,Chinese Kitchen 22,Biryani,Chennai,261,4.85,1
+23,South Indian Kitchen 23,Italian,Bengaluru,625,4.05,0
+24,Desserts Kitchen 24,Italian,Delhi,295,3.44,1
+25,Biryani Kitchen 25,Italian,Bengaluru,408,3.22,1
+26,Fast Food Kitchen 26,Italian,Mumbai,395,3.59,0
+27,Chinese Kitchen 27,North Indian,Delhi,570,3.42,0
+28,Biryani Kitchen 28,North Indian,Chennai,352,4.35,1
+29,Italian Kitchen 29,South Indian,Mumbai,270,3.41,1
+30,Italian Kitchen 30,North Indian,Delhi,131,4.06,1
+31,Italian Kitchen 31,Italian,Mumbai,312,4.38,1
+32,South Indian Kitchen 32,Fast Food,Delhi,557,4.19,1
+33,North Indian Kitchen 33,Fast Food,Delhi,125,3.54,1
+34,Italian Kitchen 34,Italian,Bengaluru,594,4.57,1
+35,Desserts Kitchen 35,Biryani,Delhi,407,4.42,1
+36,North Indian Kitchen 36,Italian,Mumbai,194,4.46,1
+37,Desserts Kitchen 37,North Indian,Pune,280,3.42,1
+38,Biryani Kitchen 38,Biryani,Pune,413,3.41,1
+39,South Indian Kitchen 39,Fast Food,Bengaluru,287,4.78,1
+40,Fast Food Kitchen 40,Fast Food,Chennai,177,3.88,1
+41,South Indian Kitchen 41,Italian,Pune,472,3.71,1
+42,Biryani Kitchen 42,Italian,Bengaluru,476,4.03,1
+43,Fast Food Kitchen 43,North Indian,Delhi,183,4.33,1
+44,Chinese Kitchen 44,Italian,Mumbai,269,4.82,1
+45,North Indian Kitchen 45,Biryani,Delhi,249,3.69,1
+46,Desserts Kitchen 46,Chinese,Mumbai,469,4.77,1
+47,Italian Kitchen 47,Fast Food,Delhi,507,3.24,1
+48,Desserts Kitchen 48,North Indian,Hyderabad,505,4.14,1
+49,Fast Food Kitchen 49,Chinese,Hyderabad,617,4.28,1
+50,Biryani Kitchen 50,Italian,Mumbai,527,3.38,0
+51,Biryani Kitchen 51,Desserts,Bengaluru,289,3.44,0
+52,South Indian Kitchen 52,South Indian,Chennai,177,3.91,1
+53,Chinese Kitchen 53,South Indian,Pune,445,4.84,1
+54,Italian Kitchen 54,Chinese,Delhi,605,4.21,1
+55,Italian Kitchen 55,Desserts,Bengaluru,636,4.79,1
+56,North Indian Kitchen 56,Biryani,Delhi,242,4.57,1
+57,Italian Kitchen 57,North Indian,Hyderabad,245,3.99,1
+58,South Indian Kitchen 58,South Indian,Bengaluru,139,4.53,1
+59,Biryani Kitchen 59,Biryani,Mumbai,194,3.23,1
+60,Fast Food Kitchen 60,North Indian,Hyderabad,414,3.39,1
+61,Desserts Kitchen 61,Biryani,Pune,409,4.61,1
+62,Biryani Kitchen 62,South Indian,Hyderabad,316,4.55,1
+63,Chinese Kitchen 63,Desserts,Pune,284,3.6,1
+64,Desserts Kitchen 64,Chinese,Hyderabad,559,4.1,1
+65,Chinese Kitchen 65,Italian,Hyderabad,363,4.23,1
+66,Chinese Kitchen 66,Fast Food,Pune,548,4.68,1
+67,Desserts Kitchen 67,North Indian,Delhi,630,4.23,1
+68,Chinese Kitchen 68,Italian,Bengaluru,288,3.9,1
+69,North Indian Kitchen 69,Italian,Delhi,227,3.84,1
+70,Italian Kitchen 70,Biryani,Pune,625,3.92,0
+71,Biryani Kitchen 71,Desserts,Mumbai,456,4.31,1
+72,South Indian Kitchen 72,Fast Food,Bengaluru,274,4.67,0
+73,Italian Kitchen 73,Chinese,Mumbai,449,3.97,1
+74,North Indian Kitchen 74,Chinese,Mumbai,392,3.62,1
+75,Fast Food Kitchen 75,Chinese,Hyderabad,599,3.6,1
+76,Italian Kitchen 76,Biryani,Pune,255,4.47,1
+77,Chinese Kitchen 77,Chinese,Delhi,645,4.59,0
+78,South Indian Kitchen 78,South Indian,Pune,616,3.38,1
+79,Italian Kitchen 79,Chinese,Mumbai,215,3.31,1
+80,Fast Food Kitchen 80,North Indian,Hyderabad,207,4.21,1
+81,Desserts Kitchen 81,North Indian,Delhi,402,3.45,1
+82,Italian Kitchen 82,North Indian,Mumbai,143,4.6,1
+83,South Indian Kitchen 83,Biryani,Mumbai,278,3.73,1
+84,Biryani Kitchen 84,Biryani,Chennai,350,3.44,1
+85,Fast Food Kitchen 85,Fast Food,Chennai,633,4.77,1
+86,Fast Food Kitchen 86,Italian,Hyderabad,645,3.48,1
+87,North Indian Kitchen 87,Biryani,Bengaluru,200,3.68,1
+88,Chinese Kitchen 88,South Indian,Bengaluru,592,3.46,1
+89,Biryani Kitchen 89,Desserts,Hyderabad,168,3.4,1
+90,Biryani Kitchen 90,Italian,Hyderabad,516,3.24,1

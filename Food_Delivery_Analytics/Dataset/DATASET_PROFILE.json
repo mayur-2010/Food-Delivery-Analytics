@@ -1,0 +1,73 @@
+{
+  "dataset_type": "synthetic",
+  "date_range": [
+    "2025-01-01",
+    "2026-06-30"
+  ],
+  "row_counts": {
+    "customers": 4500,
+    "restaurants": 90,
+    "delivery_partners": 420,
+    "orders": 15000,
+    "ratings": 9844
+  },
+  "order_status_counts": {
+    "Delivered": 13673,
+    "Cancelled": 1327
+  },
+  "columns": {
+    "customers.csv": [
+      "customer_id",
+      "customer_name",
+      "city",
+      "signup_date",
+      "customer_segment"
+    ],
+    "restaurants.csv": [
+      "restaurant_id",
+      "restaurant_name",
+      "cuisine",
+      "city",
+      "average_menu_price",
+      "restaurant_rating",
+      "is_active"
+    ],
+    "delivery_partners.csv": [
+      "partner_id",
+      "partner_name",
+      "city",
+      "vehicle_type",
+      "partner_rating",
+      "joining_date"
+    ],
+    "orders.csv": [
+      "order_id",
+      "customer_id",
+      "restaurant_id",
+      "partner_id",
+      "order_datetime",
+      "order_status",
+      "payment_method",
+      "subtotal",
+      "delivery_fee",
+      "discount",
+      "tax",
+      "total_amount",
+      "estimated_delivery_minutes",
+      "actual_delivery_minutes",
+      "preparation_time_minutes",
+      "delivery_distance_km",
+      "cancellation_reason",
+      "refund_amount"
+    ],
+    "ratings.csv": [
+      "rating_id",
+      "order_id",
+      "customer_id",
+      "restaurant_id",
+      "rating",
+      "review_text",
+      "rating_datetime"
+    ]
+  }
+}
