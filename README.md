@@ -133,7 +133,7 @@ Add your dashboard screenshot here after uploading it to your repository.
 
 Example:
 
-`![Food Delivery Dashboard](PowerBI/Dashboard_Screenshot.png)`
+`![Food Delivery Dashboard](PowerBI/Dashboard_Screenshot.png.png)`
 
 ## 💡 Business Insights
 
