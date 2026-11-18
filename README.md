@@ -127,14 +127,6 @@ The interactive dashboard provides a complete overview of food delivery business
 - Payment Method
 - Order Date
 
-### Dashboard Preview
-
-Add your dashboard screenshot here after uploading it to your repository.
-
-Example:
-
-`![Food Delivery Dashboard](PowerBI/Dashboard_Screenshot.png.png)`
-
 ## 💡 Business Insights
 
 The analysis helps understand:
